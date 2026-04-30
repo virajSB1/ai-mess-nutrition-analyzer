@@ -1,9 +1,8 @@
-
 import streamlit as st
 
 import pandas as pd
 
-import pickle
+from sklearn.tree import DecisionTreeClassifier
 
 from datetime import datetime
 
@@ -17,8 +16,26 @@ food_df = pd.read_csv("data/food_nutrition.csv")
 
 menu_df = pd.read_csv("data/mess_menu.csv")
 
-with open("models/meal_classifier.pkl", "rb") as file:
-    model = pickle.load(file)
+labels_df = pd.read_csv(
+    "data/meal_health_labels.csv",
+    sep="\t"
+)
+
+X = labels_df[
+    [
+        "calories",
+        "protein",
+        "carbs",
+        "fat",
+        "fiber"
+    ]
+]
+
+y = labels_df["label"]
+
+model = DecisionTreeClassifier()
+
+model.fit(X, y)
 
 now = datetime.now()
 
@@ -27,7 +44,6 @@ current_day = now.strftime("%A")
 mode = st.sidebar.selectbox(
     "Mode",
     ["Auto Detect", "Manual"]
-    
 )
 
 goal = st.sidebar.selectbox(
@@ -69,7 +85,8 @@ else:
     )
 
 meal_items = menu_df[
-    (menu_df["day"] == current_day) &
+    (menu_df["day"] == current_day)
+    &
     (menu_df["meal_type"] == current_meal)
 ]
 
@@ -81,9 +98,13 @@ total_fiber = 0
 
 st.title("🍽️ AI Mess Nutrition Analyzer")
 
-st.caption("Smart AI-powered mess meal analysis system")
+st.caption(
+    "Smart AI-powered mess meal analysis system"
+)
 
-st.subheader(f"{current_day} - {current_meal}")
+st.subheader(
+    f"{current_day} - {current_meal}"
+)
 
 for item in meal_items["food_item"]:
 
@@ -143,19 +164,29 @@ st.subheader("Recommendations")
 if goal == "Weight Loss":
 
     if total_calories > 700:
-        st.warning("High calorie meal for weight loss")
+        st.warning(
+            "High calorie meal for weight loss"
+        )
 
     if total_fat > 25:
-        st.warning("Fat content is high")
+        st.warning(
+            "Fat content is high"
+        )
 
 if goal == "Muscle Gain":
 
     if total_protein < 35:
-        st.warning("Protein intake is low for muscle gain")
+        st.warning(
+            "Protein intake is low for muscle gain"
+        )
 
     else:
-        st.success("Good protein intake for muscle gain")
+        st.success(
+            "Good protein intake for muscle gain"
+        )
 
 if goal == "Maintenance":
 
-    st.info("Balanced intake recommended")
+    st.info(
+        "Balanced intake recommended"
+    )
