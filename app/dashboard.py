@@ -18,6 +18,7 @@ food_df = pd.read_csv("data/food_nutrition.csv")
 menu_df = pd.read_csv("data/mess_menu.csv")
 
 with open("models/meal_classifier.pkl", "rb") as file:
+    model = pickle.load(file)
 
 now = datetime.now()
 
