@@ -1,0 +1,81 @@
+day,meal_type,food_item
+Monday,Breakfast,Daliya
+Monday,Breakfast,Sprouts
+Monday,Breakfast,Stuffed Parantha
+Monday,Breakfast,Curd
+Monday,Breakfast,Veg Semiya
+Monday,Breakfast,Tea
+Monday,Lunch,Dal Moong Urad
+Monday,Lunch,Matar Paneer
+Monday,Lunch,Boondi Raita
+Monday,Lunch,Plain Chapati
+Monday,Lunch,Rice
+Monday,Dinner,Dal Arhar
+Monday,Dinner,Mix Veg
+Monday,Dinner,Plain Chapati
+Monday,Dinner,Rice
+Tuesday,Breakfast,Cornflakes
+Tuesday,Breakfast,Kala Chana Chaat
+Tuesday,Breakfast,Poori Aloo Sabji
+Tuesday,Breakfast,Tea
+Tuesday,Lunch,Dal Tadka
+Tuesday,Lunch,Aloo Gobi
+Tuesday,Lunch,Plain Chapati
+Tuesday,Lunch,Rice
+Tuesday,Dinner,Noodles
+Tuesday,Dinner,Chilli Paneer
+Tuesday,Dinner,Fried Rice
+Wednesday,Breakfast,Poha
+Wednesday,Breakfast,Sprouts
+Wednesday,Breakfast,Tea
+Wednesday,Lunch,Rajma
+Wednesday,Lunch,Boondi Raita
+Wednesday,Lunch,Plain Chapati
+Wednesday,Lunch,Rice
+Wednesday,Dinner,Dal Makhani
+Wednesday,Dinner,Palak Paneer
+Wednesday,Dinner,Jeera Rice
+Thursday,Breakfast,Cornflakes
+Thursday,Breakfast,Poha
+Thursday,Breakfast,Tea
+Thursday,Lunch,Dal Tadka
+Thursday,Lunch,Mix Veg
+Thursday,Lunch,Plain Chapati
+Thursday,Lunch,Rice
+Thursday,Dinner,Dal Makhani
+Thursday,Dinner,Matar Paneer
+Thursday,Dinner,Plain Chapati
+Thursday,Dinner,Rice
+Friday,Breakfast,Daliya
+Friday,Breakfast,Idli
+Friday,Breakfast,Sambar
+Friday,Breakfast,Upma
+Friday,Breakfast,Tea
+Friday,Lunch,Chole
+Friday,Lunch,Veg Biryani
+Friday,Lunch,Boondi Raita
+Friday,Dinner,Dal Arhar
+Friday,Dinner,Aloo Gobi
+Friday,Dinner,Plain Chapati
+Friday,Dinner,Rice
+Saturday,Breakfast,Cornflakes
+Saturday,Breakfast,Sprouts
+Saturday,Breakfast,Stuffed Parantha
+Saturday,Breakfast,Tea
+Saturday,Lunch,Rajma
+Saturday,Lunch,Mix Veg
+Saturday,Lunch,Plain Chapati
+Saturday,Lunch,Rice
+Saturday,Dinner,Dal Moong Urad
+Saturday,Dinner,Veg Pulao
+Saturday,Dinner,Plain Chapati
+Sunday,Breakfast,Kala Chana Chaat
+Sunday,Breakfast,Pasta
+Sunday,Breakfast,Omelette
+Sunday,Breakfast,Tea
+Sunday,Lunch,Aloo Gobi
+Sunday,Lunch,Veg Biryani
+Sunday,Lunch,Curd
+Sunday,Dinner,Dal Makhani
+Sunday,Dinner,Chilli Paneer
+Sunday,Dinner,Plain Chapati

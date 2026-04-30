@@ -1,0 +1,32 @@
+food_name,serving_size_g,calories,protein_g,carbs_g,fat_g,fiber_g,category
+Daliya,150,180,6,35,2.0,5,Breakfast
+Sprouts,100,120,9,15,1.0,6,Breakfast
+Stuffed Parantha,120,300,8,40,12.0,4,Breakfast
+Curd,100,98,4,6,4.0,0,Dairy
+Tea,150,70,2,10,2.0,0,Beverage
+Veg Semiya,150,220,6,40,5.0,3,Breakfast
+Cornflakes,40,150,3,34,0.5,1,Breakfast
+Kala Chana Chaat,150,240,11,35,6.0,8,Breakfast
+Poori Aloo Sabji,250,450,8,55,20.0,5,Breakfast
+Poha,150,250,6,40,7.0,3,Breakfast
+Upma,150,230,5,35,8.0,3,Breakfast
+Idli,100,150,5,28,1.0,2,Breakfast
+Sambar,150,120,5,18,3.0,4,Breakfast
+Dal Moong Urad,150,180,10,22,5.0,6,Dal
+Dal Arhar,150,170,9,24,4.0,5,Dal
+Dal Makhani,180,300,12,28,15.0,8,Dal
+Rajma,180,260,12,35,7.0,9,Protein
+Chole,180,280,11,38,8.0,8,Protein
+Matar Paneer,150,320,12,18,22.0,5,Paneer
+Palak Paneer,150,290,15,12,20.0,5,Paneer
+Mix Veg,150,160,5,18,7.0,4,Vegetable
+Aloo Gobi,150,190,4,22,9.0,5,Vegetable
+Bhindi Masala,150,170,4,18,8.0,6,Vegetable
+Boondi Raita,100,140,5,10,8.0,1,Dairy
+Plain Chapati,40,120,3,20,2.0,2,Bread
+Rice,150,210,4,45,0.5,1,Main Course
+Jeera Rice,150,240,5,42,5.0,1,Main Course
+Veg Pulao,180,320,7,50,10.0,3,Main Course
+Noodles,200,380,9,50,14.0,3,Fast Food
+Chilli Paneer,180,350,15,20,24.0,2,Fast Food
+Fried Rice,200,330,7,48,12.0,2,Fast Food
