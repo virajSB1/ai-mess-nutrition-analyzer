@@ -57,15 +57,28 @@ goal = st.sidebar.selectbox(
 
 if mode == "Auto Detect":
 
-    current_time = now.hour + now.minute / 60
+    current_minutes = (
+        now.hour * 60
+        +
+        now.minute
+    )
 
-    if 7.5 <= current_time < 9.5:
+    breakfast_start = 7 * 60 + 30
+    breakfast_end = 9 * 60 + 30
+
+    lunch_start = 12 * 60
+    lunch_end = 14 * 60
+
+    dinner_start = 19 * 60 + 30
+    dinner_end = 21 * 60
+
+    if breakfast_start <= current_minutes < breakfast_end:
         current_meal = "Breakfast"
 
-    elif 12 <= current_time < 14:
+    elif lunch_start <= current_minutes < lunch_end:
         current_meal = "Lunch"
 
-    elif 19.5 <= current_time < 21:
+    elif dinner_start <= current_minutes < dinner_end:
         current_meal = "Dinner"
 
     else:
