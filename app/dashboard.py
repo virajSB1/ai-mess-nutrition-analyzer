@@ -3,7 +3,8 @@ import pandas as pd
 import os
 
 from sklearn.tree import DecisionTreeClassifier
-from datetime import datetime
+from datetime import datetime 
+import pytz
 
 st.set_page_config(
     page_title="AI Mess Nutrition Analyzer",
@@ -66,7 +67,11 @@ model = DecisionTreeClassifier()
 
 model.fit(X, y)
 
-now = datetime.now()
+india = pytz.timezone(
+    "Asia/Kolkata"
+)
+
+now = datetime.now(india)
 
 current_day = now.strftime("%A")
 
