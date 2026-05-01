@@ -5,8 +5,8 @@ import pandas as pd
 from sklearn.tree import DecisionTreeClassifier
 
 from datetime import datetime
-import os
 
+import os
 st.set_page_config(
     page_title="AI Mess Nutrition Analyzer",
     page_icon="🍽️",
