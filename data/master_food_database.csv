@@ -1,0 +1,120 @@
+﻿food_name,calories,protein_g,carbs_g,fat_g,fiber_g,aliases
+Daliya,180,6,32,3,5,broken wheat porridge
+Sprouts,120,9,18,2,6,mixed sprouts
+Stuffed Parantha,320,8,42,14,5,stuffed paratha
+Curd,98,4,6,4,0,"dahi,yogurt"
+Veg Semiya,220,5,38,6,3,vermicelli upma
+Tea,70,1,10,2,0,chai
+Bread Butter Jam,260,5,32,10,2,"bread butter,bread jam"
+Hot Milk,150,8,12,8,0,milk
+Cold Milk,160,8,14,8,0,chilled milk
+Cornflakes,180,4,36,2,1,corn flakes
+Kala Chana Chaat,210,10,30,5,8,black chana chaat
+Poori Aloo Sabji,420,7,48,22,6,poori aloo
+Maggi,350,8,48,14,2,noodles
+Bread Butter,220,5,24,10,2,bread butter
+Poha,250,6,45,5,4,kanda poha
+Bread Pakoda,280,7,30,14,3,bread pakora
+Bread Roll,260,6,32,12,3,veg bread roll
+Tomato Sauce,40,1,9,0,1,ketchup
+Bread,90,3,17,1,1,white bread
+Butter,100,0,0,11,0,amul butter
+Jam,60,0,15,0,0,fruit jam
+Cold Coffee,190,5,22,8,1,iced coffee
+Banana,105,1,27,0,3,kela
+Veg Aloo Sandwich,260,8,35,9,4,aloo sandwich
+Cutlet,180,4,20,9,3,veg cutlet
+Poha,250,6,45,5,4,flattened rice
+Apple,95,0,25,0,4,seb
+Idli,140,4,28,1,2,idly
+Sambhar,120,5,18,3,4,sambar
+Vada,180,4,20,10,2,medu vada
+Coconut Chutney,110,2,6,9,2,nariyal chutney
+Upma,230,6,38,6,3,rava upma
+Choley Bhature,520,14,58,24,10,chole bhature
+Dahi Pakodi,240,8,26,10,3,dahi bhalla
+Banana,105,1,27,0,3,kela
+Ajwain Parantha,300,7,40,12,4,ajwain paratha
+Aloo Sabji,180,4,24,8,5,potato curry
+Boiled Egg,78,6,1,5,0,egg
+Lassi,220,8,26,9,0,sweet lassi
+Fruit Chat,150,2,35,1,5,fruit chaat
+Macaroni Pasta,320,8,52,10,3,pasta
+Samosa Pav,380,8,45,18,4,samosa bun
+Bhaji,220,5,20,12,4,pav bhaji
+Omelette,160,10,2,12,0,omelet
+Dal Moong Urad,210,11,28,6,8,moong urad dal
+Matar Paneer,320,14,18,20,5,peas paneer
+Boondi Raita,180,5,14,10,1,raita
+Plain Chapati,120,4,22,2,3,roti
+Rice,210,4,45,1,1,plain rice
+Green Chutney,35,1,5,1,2,mint chutney
+Kheer,260,6,38,8,1,rice kheer
+Dal Arhar,190,10,26,5,7,toor dal
+Mix Veg,170,5,20,7,6,mixed vegetables
+Kadhi Boondi,240,8,22,12,2,kadhi
+Jeera Aloo,180,3,24,7,4,
+Baingan Bharta,180,5,18,8,6,eggplant curry
+Hot & Sour Soup,90,3,12,3,2,soup
+Lauki Tomato,140,4,16,5,5,bottle gourd curry
+Kadhi Pakoda,260,8,22,14,3,kadhi
+Dry Aaloo Palak,190,5,24,8,6,potato spinach
+Amul Kashmiri Kulfi,220,4,26,11,0,kulfi
+French Vanilla Ice Cream,240,4,28,12,0,vanilla ice cream
+Amul Mango Cup,210,3,30,8,1,mango ice cream
+Dal Kala Chana,230,12,30,6,10,black chana dal
+Dal Moong Sabut,220,12,28,6,9,whole moong dal
+Dal Moong Urd,230,11,30,7,8,mixed dal
+Egg Bhurji,220,14,4,16,1,scrambled egg
+Matar Pulao,280,6,42,8,4,peas pulao
+Veg Sandwich,260,7,34,9,4,sandwich
+Burger,350,10,40,16,3,veg burger
+Pasta Zero Maida,300,10,45,8,5,healthy pasta
+Macaroni Zero Maida,310,9,46,8,5,macaroni
+Poori Aaloo Sabji,420,8,52,18,6,poori bhaji
+Dahi Vada,260,8,28,12,2,dahi bhalla
+Onion Salad with Lemon,40,1,8,0,2,onion salad
+Masala Bhindi,170,4,18,7,6,okra masala
+Melon,60,1,15,0,1,muskmelon
+Watermelon,45,1,11,0,1,tarbuj
+Pav Bhaji,320,8,42,12,5,bhaji
+Aloo Paratha,320,8,42,14,5,aloo parantha
+Salad,40,2,8,0,3,mixed salad
+Kashmiri Kulfi,220,4,26,11,0,kulfi
+Veg Manchurian,280,7,30,14,4,manchurian
+Noodles,330,8,48,12,3,hakka noodles
+Chilli Paneer,360,16,18,24,3,paneer chilli
+Fried Rice,340,7,52,10,3,rice fry
+Hot and Sour Soup,90,3,12,3,2,soup
+Gulab Jamun,190,3,32,7,0,sweet
+Samosa,260,5,30,14,3,singara
+Dal Rajma,240,10,35,6,9,rajma
+Lauki Tomato Sabji,140,4,16,5,5,lauki curry
+Plain Curd,100,4,6,4,0,dahi
+Fruit Custard,220,5,32,8,2,custard
+Dal Panch Ranga,230,11,30,7,8,panchmel dal
+Dry Aloo Palak,190,5,24,8,6,aloo palak
+Mango Ice Cream,240,4,30,12,1,mango icecream
+Milk,150,8,12,8,0,plain milk
+Chole Bhature,520,15,60,24,10,chole bhatura
+Veg Biryani,320,7,48,10,4,vegetable biryani
+Dal Makhani,300,12,30,14,8,makhani dal
+Aloo Beans,180,4,22,7,5,bean potato
+Rajasthani Kulfi,210,4,24,10,0,kulfi
+Aloo Sandwich,260,7,35,9,4,sandwich
+Egg Curry,290,14,10,20,2,anda curry
+Rice Kheer,260,6,40,8,1,kheer
+Chilli Nutri,250,18,20,10,6,soy chilli
+Shahi Paneer,340,15,18,25,3,paneer curry
+Missi Roti,160,5,24,4,5,besan roti
+Dal Maharani,260,12,30,9,8,dal
+Butterscotch Ice Cream,240,4,28,12,0,ice cream
+Aloo Matar,210,5,28,8,6,potato peas curry
+Semiya,220,5,38,6,3,vermicelli
+Macaroni,320,8,50,10,3,pasta
+Pasta,340,9,52,11,4,italian pasta
+Aloo Jeera,180,3,24,7,4,jeera aloo
+Papad,40,2,6,1,1,papadum
+Aloo Lobia Tomato Sabji,210,7,28,6,8,lobia curry
+Kachori,260,6,30,12,3,kachauri
+Aloo Tomato Sabji,170,3,24,6,4,potato tomato curry

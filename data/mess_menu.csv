@@ -1,0 +1,177 @@
+day,meal_type,food_item
+Monday,Breakfast,Daliya
+Monday,Breakfast,Sprouts
+Monday,Breakfast,Aloo Paratha
+Monday,Breakfast,Curd
+Monday,Breakfast,Veg Semiya
+Monday,Breakfast,Boiled Egg
+Monday,Breakfast,Bread
+Monday,Breakfast,Butter
+Monday,Breakfast,Jam
+Monday,Breakfast,Cold Coffee
+Monday,Lunch,Dal Arhar
+Monday,Lunch,Baingan Bharta
+Monday,Lunch,Boondi Raita
+Monday,Lunch,Plain Chapati
+Monday,Lunch,Rice
+Monday,Lunch,Salad
+Monday,Lunch,Kashmiri Kulfi
+Monday,Dinner,Veg Manchurian
+Monday,Dinner,Noodles
+Monday,Dinner,Chilli Paneer
+Monday,Dinner,Fried Rice
+Monday,Dinner,Hot and Sour Soup
+Monday,Dinner,Salad
+Monday,Dinner,Gulab Jamun
+Monday,Dinner,Hot Milk
+Monday,Dinner,Cold Milk
+Tuesday,Breakfast,Cornflakes
+Tuesday,Breakfast,Kala Chana Chaat
+Tuesday,Breakfast,Samosa
+Tuesday,Breakfast,Poha
+Tuesday,Breakfast,Bread
+Tuesday,Breakfast,Butter
+Tuesday,Breakfast,Jam
+Tuesday,Breakfast,Milk
+Tuesday,Breakfast,Tea
+Tuesday,Lunch,Dal Rajma
+Tuesday,Lunch,Lauki Tomato Sabji
+Tuesday,Lunch,Plain Curd
+Tuesday,Lunch,Plain Chapati
+Tuesday,Lunch,Rice
+Tuesday,Lunch,Salad
+Tuesday,Lunch,Watermelon
+Tuesday,Dinner,Aloo Tomato Sabji
+Tuesday,Dinner,Mix Veg
+Tuesday,Dinner,Plain Chapati
+Tuesday,Dinner,Rice
+Tuesday,Dinner,Salad
+Tuesday,Dinner,Green Chutney
+Tuesday,Dinner,Fruit Custard
+Tuesday,Dinner,Hot Milk
+Tuesday,Dinner,Cold Milk
+Wednesday,Breakfast,Daliya
+Wednesday,Breakfast,Sprouts
+Wednesday,Breakfast,Bread Pakoda
+Wednesday,Breakfast,Bread Roll
+Wednesday,Breakfast,Boiled Egg
+Wednesday,Breakfast,Bread
+Wednesday,Breakfast,Butter
+Wednesday,Breakfast,Jam
+Wednesday,Breakfast,Tea
+Wednesday,Breakfast,Banana
+Wednesday,Lunch,Kadhi Pakoda
+Wednesday,Lunch,Aloo Jeera
+Wednesday,Lunch,Plain Chapati
+Wednesday,Lunch,Rice
+Wednesday,Lunch,Salad
+Wednesday,Lunch,Papad
+Wednesday,Dinner,Dal Panch Ranga
+Wednesday,Dinner,Dry Aloo Palak
+Wednesday,Dinner,Plain Chapati
+Wednesday,Dinner,Rice
+Wednesday,Dinner,Salad
+Wednesday,Dinner,French Vanilla Ice Cream
+Wednesday,Dinner,Mango Ice Cream
+Wednesday,Dinner,Hot Milk
+Wednesday,Dinner,Cold Milk
+Thursday,Breakfast,Cornflakes
+Thursday,Breakfast,Kala Chana Chaat
+Thursday,Breakfast,Poori Aloo Sabji
+Thursday,Breakfast,Maggi
+Thursday,Breakfast,Bread
+Thursday,Breakfast,Butter
+Thursday,Breakfast,Jam
+Thursday,Breakfast,Milk
+Thursday,Breakfast,Tea
+Thursday,Breakfast,Apple
+Thursday,Lunch,Chole Bhature
+Thursday,Lunch,Veg Biryani
+Thursday,Lunch,Dahi Vada
+Thursday,Lunch,Onion Salad with Lemon
+Thursday,Dinner,Dal Makhani
+Thursday,Dinner,Aloo Beans
+Thursday,Dinner,Plain Chapati
+Thursday,Dinner,Rice
+Thursday,Dinner,Green Chutney
+Thursday,Dinner,Salad
+Thursday,Dinner,Rajasthani Kulfi
+Thursday,Dinner,Hot Milk
+Thursday,Dinner,Cold Milk
+Friday,Breakfast,Daliya
+Friday,Breakfast,Sprouts
+Friday,Breakfast,Aloo Sandwich
+Friday,Breakfast,Veg Sandwich
+Friday,Breakfast,Poha
+Friday,Breakfast,Bread
+Friday,Breakfast,Butter
+Friday,Breakfast,Jam
+Friday,Breakfast,Cold Coffee
+Friday,Lunch,Dal Moong Sabut
+Friday,Lunch,Matar Paneer
+Friday,Lunch,Boondi Raita
+Friday,Lunch,Plain Chapati
+Friday,Lunch,Rice
+Friday,Lunch,Salad
+Friday,Lunch,Melon
+Friday,Dinner,Dal Kala Chana
+Friday,Dinner,Mix Veg
+Friday,Dinner,Egg Bhurji
+Friday,Dinner,Egg Curry
+Friday,Dinner,Plain Chapati
+Friday,Dinner,Rice
+Friday,Dinner,Salad
+Friday,Dinner,Rice Kheer
+Friday,Dinner,Hot Milk
+Friday,Dinner,Cold Milk
+Saturday,Breakfast,Cornflakes
+Saturday,Breakfast,Idli
+Saturday,Breakfast,Sambhar
+Saturday,Breakfast,Vada
+Saturday,Breakfast,Coconut Chutney
+Saturday,Breakfast,Upma
+Saturday,Breakfast,Bread
+Saturday,Breakfast,Butter
+Saturday,Breakfast,Jam
+Saturday,Breakfast,Milk
+Saturday,Breakfast,Tea
+Saturday,Lunch,Dal Rajma
+Saturday,Lunch,Chilli Nutri
+Saturday,Lunch,Lassi
+Saturday,Lunch,Plain Chapati
+Saturday,Lunch,Rice
+Saturday,Lunch,Salad
+Saturday,Lunch,Banana
+Saturday,Dinner,Dal Moong Urad
+Saturday,Dinner,Shahi Paneer
+Saturday,Dinner,Matar Pulao
+Saturday,Dinner,Missi Roti
+Saturday,Dinner,Salad
+Saturday,Dinner,Butterscotch Ice Cream
+Saturday,Dinner,Hot Milk
+Saturday,Dinner,Cold Milk
+Sunday,Breakfast,Kala Chana Chaat
+Sunday,Breakfast,Macaroni
+Sunday,Breakfast,Pasta
+Sunday,Breakfast,Burger
+Sunday,Breakfast,Pav Bhaji
+Sunday,Breakfast,Omelette
+Sunday,Breakfast,Bread
+Sunday,Breakfast,Butter
+Sunday,Breakfast,Jam
+Sunday,Breakfast,Tea
+Sunday,Lunch,Aloo Lobia Tomato Sabji
+Sunday,Lunch,Kachori
+Sunday,Lunch,Veg Biryani
+Sunday,Lunch,Curd
+Sunday,Lunch,Salad
+Sunday,Lunch,Papad
+Sunday,Dinner,Dal Maharani
+Sunday,Dinner,Masala Bhindi
+Sunday,Dinner,Aloo Matar
+Sunday,Dinner,Plain Chapati
+Sunday,Dinner,Rice
+Sunday,Dinner,Salad
+Sunday,Dinner,Semiya
+Sunday,Dinner,Hot Milk
+Sunday,Dinner,Cold Milk
