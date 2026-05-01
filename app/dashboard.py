@@ -5,6 +5,7 @@ import pandas as pd
 from sklearn.tree import DecisionTreeClassifier
 
 from datetime import datetime
+import os
 
 st.set_page_config(
     page_title="AI Mess Nutrition Analyzer",
@@ -12,12 +13,36 @@ st.set_page_config(
     layout="centered"
 )
 
-food_df = pd.read_csv("data/food_nutrition.csv")
+BASE_DIR = os.path.dirname(
+    os.path.dirname(
+        os.path.abspath(__file__)
+    )
+)
 
-menu_df = pd.read_csv("data/mess_menu.csv")
+food_path = os.path.join(
+    BASE_DIR,
+    "data",
+    "food_nutrition.csv"
+)
+
+menu_path = os.path.join(
+    BASE_DIR,
+    "data",
+    "mess_menu.csv"
+)
+
+labels_path = os.path.join(
+    BASE_DIR,
+    "data",
+    "meal_health_labels.csv"
+)
+
+food_df = pd.read_csv(food_path)
+
+menu_df = pd.read_csv(menu_path)
 
 labels_df = pd.read_csv(
-    "data/meal_health_labels.csv",
+    labels_path,
     sep="\t"
 )
 
